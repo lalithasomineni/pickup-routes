@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "josh",bold;
+  font-weight: 400;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.heading{
+	color:white;
+	font-weight: bolder;
+	text-align: center;
+	font-family:bold;
+	position:absolute;
+	top:70px;
+	right:110px;
+	font-size:60px;
+     border: 0.6rem solid black;
+     background:black;
+     border-radius:15px;
+	}
+body{
+	background:url('pickup.png') no-repeat;
+	background-size:cover;
+}
+.box{
+	opacity:0.8;
+}
